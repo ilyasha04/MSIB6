@@ -5,7 +5,8 @@ Kumpulan materi msib 6
 - Javascript
 - PHP
 - Laravel
-- MysQl Database
+- MysQl
 - Rest API
 - Consum API
+- Belajar Bersama 
 // api add unutk menambahkan file
